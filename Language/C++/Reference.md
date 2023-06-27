@@ -87,18 +87,18 @@ int형 변수의 참조자를 만들고 싶다면 int&를, double의 참조자�
     #include <iostream>
 
     int main() {
-    int x;
-    int& y = x;
-    int& z = y;
+        int x;
+        int& y = x;
+        int& z = y;
 
-    x = 1;
-    std::cout << "x : " << x << " y : " << y << " z : " << z << std::endl;
+        x = 1;
+        std::cout << "x : " << x << " y : " << y << " z : " << z << std::endl;
 
-    y = 2;
-    std::cout << "x : " << x << " y : " << y << " z : " << z << std::endl;
+        y = 2;
+        std::cout << "x : " << x << " y : " << y << " z : " << z << std::endl;
 
-    z = 3;
-    std::cout << "x : " << x << " y : " << y << " z : " << z << std::endl;
+        z = 3;
+        std::cout << "x : " << x << " y : " << y << " z : " << z << std::endl;
     }
 
 int x;, int&
