@@ -5,8 +5,11 @@
 ## 1. 언어
 * Cpp
     * [NameSpace](Language/C%2B%2B/namespace.md)   
-    * [C & Cpp](Language/C%2B%2B/C%26Cpp.md)
-    * [Reference](Language/C%2B%2B/Reference.md)
+    * [Structure](Language/C%2B%2B/structure.md)
+    * [Reference](Language/C%2B%2B/reference.md)
+    * [New&Delete](Language/C++/new_delete.md)
+    * [Objects&Class](Language/C++/objects_class.md)
+    * [Overload&Constructor](Language/C++/overload_constructor.md)
 
 
 * Unity
