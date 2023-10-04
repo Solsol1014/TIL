@@ -10,6 +10,7 @@
     * [New&Delete](Language/C++/new_delete.md)
     * [Objects&Class](Language/C++/objects_class.md)
     * [Overload&Constructor](Language/C++/overload_constructor.md)
+    * [Copy_Constructor&Destructor](Language/C++/copy_constructor&destructor.md)
 
 
 * Unity
