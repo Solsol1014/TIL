@@ -11,6 +11,7 @@
     * [Objects&Class](Language/C++/objects_class.md)
     * [Overload&Constructor](Language/C++/overload_constructor.md)
     * [Copy_Constructor&Destructor](Language/C++/copy_constructor&destructor.md)
+    * [Initializer_List](Language/C++/initializer_list.md)
 
 
 * Unity
